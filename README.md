@@ -8,7 +8,7 @@ lightweight app to stick on your desktop to view the current time for various ci
 
 ## Usage
 
-1. Download the executable file for your operating system from dist section of this repository.
+1. Download the executable file for your operating system from "releases" section of this repository.
 
 2. Double-click the executable to run the World Clocks App.
 
