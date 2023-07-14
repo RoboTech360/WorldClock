@@ -32,7 +32,7 @@ class WorldClockApp:
         #canvas = tk.Canvas(self.master, bg='black')  # Create a canvas with the desired background color
         #canvas.pack(fill='both', expand=True)
         
-        font_style = ('Consolas', 14, 'normal')
+        font_style = ('Consolas', 12, 'normal')
 
         for tz, city in self.time_zones.items():
             # Create a label for each clock
